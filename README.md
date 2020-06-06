@@ -4,6 +4,8 @@
 
 [Maven依赖查询地址](https://mvnrepository.com/)
 
+[常见编译问题](https://github.com/chengfengpiaopiao/spring-rice/build-question.md)
+
 ##  1，开发环境 
     Itellij2020.1 jdk8   
     
